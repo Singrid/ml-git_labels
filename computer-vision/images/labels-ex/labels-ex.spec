@@ -8,4 +8,4 @@ labels:
     size: 39 MB
     store: s3h://s3local
   name: labels-ex
-  version: 1
+  version: 2
